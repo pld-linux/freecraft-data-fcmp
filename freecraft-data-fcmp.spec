@@ -10,7 +10,7 @@ Group:		Applications/Games
 Source0:	http://dl.sourceforge.net/freecraft/fcmp-%{snap}.tar.gz
 URL:		http://freecraft.sourceforge.net/
 Requires:	freecraft >= 1:1.18-0.pre1
-Provides:	freecraft-data
+Provides:	freecraft-data = %{epoch}:%{version}-%{release}
 Obsoletes:	freecraft-data-wc2
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
