@@ -1,11 +1,11 @@
 Summary:	Freecraft Media Project - free data for Freecraft game
 Summary(pl):	Freecraft Media Project - wolnodostêpne dane dla gry Freecraft
 Name:		freecraft-data-fcmp
-Version:	020712
+Version:	030226
 Release:	1
 License:	BSD-like or GPL
 Group:		Applications/Games
-Source0:	ftp://ftp.sourceforge.net/pub/sourceforge/freecraft/fcmp-%{version}.tar.bz2
+Source0:	http://prdownloads.sourceforge.net/%{name}/fcmp-%{version}.tar.gz
 URL:		http://freecraft.sourceforge.net/
 Requires:	freecraft
 Provides:	freecraft-data
