@@ -9,6 +9,7 @@ Epoch:		1
 License:	BSD-like or GPL
 Group:		Applications/Games
 Source0:	http://dl.sourceforge.net/freecraft/fcmp-%{snap}.tar.gz
+# Source0-md5:	df77bb91f5e6bcfa113d66064156002e
 URL:		http://freecraft.sourceforge.net/
 Requires:	freecraft >= 1:1.18-0.pre1
 Provides:	freecraft-data = %{epoch}:%{version}-%{release}
