@@ -5,7 +5,7 @@ Version:	030226
 Release:	1
 License:	BSD-like or GPL
 Group:		Applications/Games
-Source0:	http://prdownloads.sourceforge.net/%{name}/fcmp-%{version}.tar.gz
+Source0:	http://prdownloads.sourceforge.net/freecraft/fcmp-%{version}.tar.gz
 URL:		http://freecraft.sourceforge.net/
 Requires:	freecraft
 Provides:	freecraft-data
