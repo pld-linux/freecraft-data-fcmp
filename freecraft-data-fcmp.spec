@@ -1,7 +1,7 @@
 Summary:	Freecraft Media Project - free data for Freecraft game
 Summary(pl):	Freecraft Media Project - wolnodostêpne dane dla gry Freecraft
 Name:		freecraft-data-fcmp
-%define	snap	030226
+%define	snap	030311
 Version:	1.18
 Release:	0.pre1.%{snap}.1
 Epoch:		1
