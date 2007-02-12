@@ -1,5 +1,5 @@
 Summary:	Freecraft Media Project - free data for Freecraft game
-Summary(pl):	Freecraft Media Project - wolnodostêpne dane dla gry Freecraft
+Summary(pl.UTF-8):   Freecraft Media Project - wolnodostÄ™pne dane dla gry Freecraft
 Name:		freecraft-data-fcmp
 %define	snap	030311
 Version:	1.18
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This is the distribution of the Freecraft Media Project - free data
 package for Freecraft game.
 
-%description -l pl
-To jest dystrybucja Freecraft Media Project - wolnodostêpnych danych
+%description -l pl.UTF-8
+To jest dystrybucja Freecraft Media Project - wolnodostÄ™pnych danych
 dla gry Freecraft.
 
 %prep
